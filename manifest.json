@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Method Draw Vector Editor",
+  "description": "HTML:Editor Pro",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Method Draw Vector Editor",
+  "name": "HTML:Editor Pro",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Method Draw Vector Editor",
+  "short_name": "HTML:Editor Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Method Draw Vector Editor",
+      "name": "HTML:Editor Pro",
       "url": "",
       "description": ""
     }
