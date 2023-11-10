@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "HTML:Editor Pro",
+  "description": "HTML Editor:Pro",
   "dir": "ltr",
   "display": "standalone",
-  "name": "HTML:Editor Pro",
+  "name": "HTML Editor:Pro",
   "orientation": "any",
   "scope": "/",
-  "short_name": "HTML:Editor Pro",
+  "short_name": "HTML Editor:Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "HTML:Editor Pro",
+      "name": "HTML Editor:Pro",
       "url": "",
       "description": ""
     }
